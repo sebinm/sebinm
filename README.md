@@ -7,5 +7,5 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tonu-sebastian-831a09145/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like table tennis
+- ⚡ Fun fact: I like table tennis.
 

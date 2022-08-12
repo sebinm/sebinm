@@ -1,6 +1,6 @@
 ### Here is What I'm Working On! 👋
 
-- 🔭 I’m currently working on my happiness
+- 🔭 I’m currently working on my happiness.
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on React.js
 - 🤔 I’m looking for help with React.js
